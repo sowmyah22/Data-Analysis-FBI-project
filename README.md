@@ -64,9 +64,9 @@
 
 ## Project Conclusion
 
-•	Strategic law enforcement deployment should prioritize high-crime areas, particularly the “Central Business District” neighbourhood, to enhance public safety.
-•	The persistently high incidence of vehicle-related thefts indicates potential security gaps, emphasizing the need for improved vehicle security measures, parking regulations, and public awareness initiatives.
-•	Peak crime hours, particularly in the late afternoon and evening, necessitate increased surveillance and targeted patrols, focusing on vehicle-related crimes to mitigate theft.
-Law enforcement agencies should implement proactive safety measures, optimize resource allocation, and develop data-driven crime prevention strategies. Additionally, enhancing public awareness of high-crime zones will contribute to improved community security and overall crime reduction
+* Strategic law enforcement deployment should prioritize high-crime areas, particularly the “Central Business District” neighbourhood, to enhance public safety.
+* The persistently high incidence of vehicle-related thefts indicates potential security gaps, emphasizing the need for improved vehicle security measures, parking regulations, and public awareness initiatives.
+* Peak crime hours, particularly in the late afternoon and evening, necessitate increased surveillance and targeted patrols, focusing on vehicle-related crimes to mitigate theft.
+* Law enforcement agencies should implement proactive safety measures, optimize resource allocation, and develop data-driven crime prevention strategies. Additionally, enhancing public awareness of high-crime zones will contribute to improved community security and overall crime reduction
 
 
