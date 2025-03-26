@@ -27,6 +27,9 @@
 
 ## Data Analysis
 
+![Image](https://github.com/user-attachments/assets/a3ae1533-9397-4925-aa6c-3e8a5e93c504)
+
+
  ### Different Crime Types
  
 
