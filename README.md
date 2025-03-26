@@ -6,7 +6,7 @@
 * To anticipate crime trends, allocate resources strategically and implement proactive measures to prevent criminal activities
 
 ## Data Summary
- * The data size : 55.5 MB
+ * The data size : 35 MB
  * Shape of the data : 474565,13 
  * Missing values : 150234
 
